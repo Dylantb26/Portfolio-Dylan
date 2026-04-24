@@ -1,0 +1,17 @@
+{
+  "Title": "About Me",
+  "Introduction": "I'm Dylan. On this page, you'll find out more about me, my skills, education, and interests.",
+
+  "Education": "Education",
+  "EducationText": "I studied software development at ROC of Twente and learned a lot about programming languages, frameworks, and software development in general.",
+  
+  "Skills": "Skills",
+  "SkillsText": "I have experience with JavaScript, TypeScript, React, and .NET. I'm also familiar with database management and version control systems like Git. Additionally, I'm interested in Linux and use it daily.",
+  
+  "Interests": "Interests",
+  "InterestsText": "I'm particularly interested in privacy and security, especially given the current global situation with data collection, monetization, and AI training without consent. This drives my interest in Linux and open-source software as alternatives to big tech companies like Google, Microsoft, Apple, Meta, Amazon, and Twitter.",
+
+  "Hobbies": "Hobbies",
+  "HobbiesText": "In my free time, I enjoy playing video games, particularly city builders and strategy games."
+
+}

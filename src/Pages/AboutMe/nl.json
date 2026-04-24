@@ -1,0 +1,16 @@
+{
+  "Title": "Over Mij",
+  "Introduction": "Ik ben Dylan. Op deze pagina kom je meer te weten over mij, mijn vaardigheden, opleiding en interesses.",
+
+  "Education": "Opleiding",
+  "EducationText": "Ik heb softwareontwikkeling gestudeerd aan het ROC van Twente en heb veel geleerd over programmeertalen, frameworks en softwareontwikkeling in het algemeen.",
+
+  "Skills": "Vaardigheden",
+  "SkillsText": "Ik heb ervaring met JavaScript, TypeScript, React en .NET. Ik ben ook bekend met databasebeheer en versiebeheersystemen zoals Git. Daarnaast ben ik geïnteresseerd in Linux en gebruik ik het dagelijks.",
+
+  "Interests": "Interesses",
+  "InterestsText": "Ik ben vooral geïnteresseerd in privacy en beveiliging, vooral gezien de huidige wereldwijde situatie met gegevensverzameling, monetisatie en AI-training zonder toestemming. Dit drijft mijn interesse in Linux en open-source software als alternatieven voor grote techbedrijven zoals Google, Microsoft, Apple, Meta, Amazon en Twitter.",
+
+  "Hobbies": "Hobby's",
+  "HobbiesText": "In mijn vrije tijd geniet ik van het spelen van videospelletjes, vooral stadsbouw- en strategiegames."
+}

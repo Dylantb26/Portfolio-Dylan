@@ -1,0 +1,25 @@
+{
+  "Title": "Skills",
+  "Subtitle": "Note: If the Experience is 0 months, it means I have learned it during my education but have not gained any work experience with it yet.",
+
+  "Experience": "Experience",
+
+  "Basic": "Basic",
+  "Intermediate": "Intermediate",
+  "advanced": "Advanced",
+
+  "months": "months",
+  "years": "years",
+
+  "Programing_Languages": "Programming Languages",
+
+  "Programing_Frameworks": "Programming Frameworks",
+
+  "Programing_Software": "Programming Software",
+  
+  "Other_Skills": "Other Skills",
+
+  "Languages": "Languages",
+  "Dutch": "Dutch (native)",
+  "English": "English"
+}

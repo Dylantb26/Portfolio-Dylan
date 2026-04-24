@@ -1,0 +1,25 @@
+{
+  "Title": "kwalificaties",
+  "Subtitle": "Note: Als de ervaring 0 maanden is, betekent dit dat ik het tijdens mijn opleiding heb geleerd, maar er nog geen werkervaring mee heb opgedaan.",
+
+  "Experience": "Ervaring",
+
+  "Basic": "Basis",
+  "Intermediate": "Gemiddeld",
+  "advanced": "Gevorderd",
+
+  "months": "Maanden",
+  "years": "jaren",
+
+  "Programing_Languages": "Programmeertalen",
+  
+  "Programing_Frameworks": "Programmeer Frameworks",
+
+  "Programing_Software": "Programmeersoftware",
+
+  "Other_Skills": "Andere vaardigheden",
+
+  "Languages": "Talen",
+  "Dutch": "Nederlands (eerste taal)",
+  "English": "Engels"
+}
