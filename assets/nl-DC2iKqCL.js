@@ -1,0 +1,1 @@
+const e="Projecten",t={Title:e,"PortfolioWebsite-Discription":"Mijn persoonlijke portfolio website die is gebouwd met React en TypeScript. Het toont mijn projecten, vaardigheden en contactinformatie."};export{e as Title,t as default};
