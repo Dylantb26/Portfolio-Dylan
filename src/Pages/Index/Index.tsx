@@ -23,7 +23,7 @@ function Index() {
           <a href="https://www.linkedin.com/in/dylan-t-54441b2b7" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg rounded-pill px-5 py-3">
             {t('ViewLinkedIn')}
           </a>
-          <a href="https://github.com/PortfolioDyllan" target="_blank" rel="noopener noreferrer" className="btn btn-dark btn-lg rounded-pill px-5 py-3">
+          <a href="https://github.com/Dylantb26" target="_blank" rel="noopener noreferrer" className="btn btn-dark btn-lg rounded-pill px-5 py-3">
             {t('ViewGitHub')}
           </a>
         </div>

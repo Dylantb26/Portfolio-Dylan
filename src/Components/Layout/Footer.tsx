@@ -12,7 +12,7 @@ function Footer() {
       <div className="container d-flex flex-column flex-md-row justify-content-between text-center text-md-start">
         <div className="mb-3 mb-md-0">
           <h5>{t('FooterContact')}</h5>
-          <p className="mb-2">Portfolio.Dylan@outlook.com</p>
+          <p className="mb-2">Portfolio.Dylan@protonmail.com</p>
         </div>
 
         <div className="mb-3 mb-md-0">

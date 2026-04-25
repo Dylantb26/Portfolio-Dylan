@@ -37,7 +37,7 @@ function Projects() {
                 </p>
 
                 <div className="project-links">
-                  <a href="https://github.com/PortfolioDyllan/Portfolio-Dylan" className="btn btn-sm btn-outline-primary me-2">
+                  <a href="https://github.com/Dylantb26/Portfolio-Dylan" className="btn btn-sm btn-outline-primary me-2">
                     GitHub Repo
                   </a>
                 </div>
