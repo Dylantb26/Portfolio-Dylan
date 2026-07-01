@@ -1,0 +1,1 @@
+const t="Projects",e={Title:t,"PortfolioWebsite-Discription":"My personal portfolio website built with React and TypeScript. It showcases my projects, skills, and contact information.","DesktopComputer-Discription":"My personal desktop computer. I assembled the PC myself and installed Linux Mint on it—it took me a whole weekend."};export{t as Title,e as default};

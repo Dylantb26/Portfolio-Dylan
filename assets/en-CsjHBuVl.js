@@ -1,1 +1,0 @@
-const t="Projects",o={Title:t,"PortfolioWebsite-Discription":"My personal portfolio website built with React and TypeScript. It showcases my projects, skills, and contact information."};export{t as Title,o as default};
