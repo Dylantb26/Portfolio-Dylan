@@ -21,7 +21,7 @@ function Projects() {
     <Layout>
       <div className="container my-5">
 
-        <h1 className="mb-5 text-center">Projects</h1>
+        <h1 className="mb-5 text-center">{t('Title')}</h1>
 
         <div className="row g-4">
 
@@ -41,6 +41,20 @@ function Projects() {
                     GitHub Repo
                   </a>
                 </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-6">
+            <div className="card project-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">Desktop Computer</h5>
+                <p className="project-meta">Personal project</p>
+                <p className="project-meta">Year: 2026</p>
+
+                <p className="project-description">
+                  {t('DesktopComputer-Discription')}
+                </p>
               </div>
             </div>
           </div>
