@@ -300,6 +300,17 @@ function Skils() {
             </div>
           </div>
 
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">Scrum Agile</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+
           <div className="col-12">
             <h2 className="text-center">{t('Languages')}</h2>
           </div>
