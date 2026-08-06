@@ -38,7 +38,7 @@ function Skils() {
               <div className="card-body">
                 <h5 className="card-title">HTML</h5>
                 <p className="card-text">
-                  {t('Experience')}: <strong>{t('Intermediate')}</strong>
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
                 </p>
                 <strong>5 {t('months')}</strong>
               </div>
@@ -64,7 +64,6 @@ function Skils() {
                 <p className="card-text">
                   {t('Experience')}: <strong>{t('Basic')}</strong>
                 </p>
-                <strong>0 {t('months')}</strong>
               </div>
             </div>
           </div>
@@ -112,7 +111,6 @@ function Skils() {
                 <p className="card-text">
                   {t('Experience')}: <strong>{t('Basic')}</strong>
                 </p>
-                <strong>0 {t('months')}</strong>
               </div>
             </div>
           </div>
@@ -122,7 +120,7 @@ function Skils() {
               <div className="card-body">
                 <h5 className="card-title">C#</h5>
                 <p className="card-text">
-                  {t('Experience')}: <strong>{t('Intermediate')}</strong>
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
                 </p>
                 <strong>5 {t('months')}</strong>
               </div>
@@ -162,9 +160,8 @@ function Skils() {
               <div className="card-body">
                 <h5 className="card-title">ASP.NET Core & Identity</h5>
                 <p className="card-text">
-                  {t('Experience')}: <strong>{t('Intermediate')}</strong>
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
                 </p>
-                <strong>0 {t('months')}</strong>
               </div>
             </div>
           </div>
@@ -174,9 +171,8 @@ function Skils() {
               <div className="card-body">
                 <h5 className="card-title">Entity Framework</h5>
                 <p className="card-text">
-                  {t('Experience')}: <strong>{t('Intermediate')}</strong>
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
                 </p>
-                <strong>0 {t('months')}</strong>
               </div>
             </div>
           </div>
@@ -190,7 +186,7 @@ function Skils() {
               <div className="card-body">
                 <h5 className="card-title">Visual Studio</h5>
                 <p className="card-text">
-                  {t('Experience')}: <strong>{t('Intermediate')}</strong>
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
                 </p>
               </div>
             </div>
@@ -304,6 +300,17 @@ function Skils() {
             <div className="card skill-card h-100">
               <div className="card-body">
                 <h5 className="card-title">Scrum Agile</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">Desktop Hardware</h5>
                 <p className="card-text">
                   {t('Experience')}: <strong>{t('Basic')}</strong>
                 </p>
