@@ -48,6 +48,18 @@ function Skils() {
           <div className="col-md-6 col-lg-4">
             <div className="card skill-card h-100">
               <div className="card-body">
+                <h5 className="card-title">XAML</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+                <strong>3 {t('months')}</strong>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
                 <h5 className="card-title">CSS & Bootstrap</h5>
                 <p className="card-text">
                   {t('Experience')}: <strong>{t('Basic')}</strong>
@@ -71,11 +83,11 @@ function Skils() {
           <div className="col-md-6 col-lg-4">
             <div className="card skill-card h-100">
               <div className="card-body">
-                <h5 className="card-title">XAML</h5>
+                <h5 className="card-title">JavaScript</h5>
                 <p className="card-text">
                   {t('Experience')}: <strong>{t('Basic')}</strong>
                 </p>
-                <strong>3 {t('months')}</strong>
+                <strong>5 {t('months')}</strong>
               </div>
             </div>
           </div>
@@ -83,11 +95,11 @@ function Skils() {
           <div className="col-md-6 col-lg-4">
             <div className="card skill-card h-100">
               <div className="card-body">
-                <h5 className="card-title">JavaScript & TypeScript</h5>
+                <h5 className="card-title">TypeScript</h5>
                 <p className="card-text">
                   {t('Experience')}: <strong>{t('Basic')}</strong>
                 </p>
-                <strong>5 {t('months')}</strong>
+                <strong>3 {t('months')}</strong>
               </div>
             </div>
           </div>
@@ -169,7 +181,7 @@ function Skils() {
           <div className="col-md-6 col-lg-4">
             <div className="card skill-card h-100">
               <div className="card-body">
-                <h5 className="card-title">Entity Framework</h5>
+                <h5 className="card-title">.NET Entity Framework</h5>
                 <p className="card-text">
                   {t('Experience')}: <strong>{t('Basic')}</strong>
                 </p>
@@ -192,7 +204,7 @@ function Skils() {
             </div>
           </div>
 
-         <div className="col-md-6 col-lg-4">
+          <div className="col-md-6 col-lg-4">
             <div className="card skill-card h-100">
               <div className="card-body">
                 <h5 className="card-title">Visual Studio Code</h5>
@@ -244,6 +256,17 @@ function Skils() {
             <div className="card skill-card h-100">
               <div className="card-body">
                 <h5 className="card-title">(OS) Linux Mint</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">(OS) Linux Zorin OS</h5>
                 <p className="card-text">
                   {t('Experience')}: <strong>{t('Basic')}</strong>
                 </p>
