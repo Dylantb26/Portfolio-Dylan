@@ -13,16 +13,16 @@ interface LanguageContextType {
 }
 
 export const LanguageContext = createContext<LanguageContextType>({
-  language: 'en',
-  setLanguage: () => {},
+  language: 'nl',
+  setLanguage: () => { },
   t: (key) => key,
   page: '',
-  setPage: () => {},
+  setPage: () => { },
   loading: false,
 });
 
 export const LanguageProvider = ({ children }: { children: ReactNode }) => {
-  const [language, setLanguage] = useState<Language>('en');
+  const [language, setLanguage] = useState<Language>('nl');
   const [page, setPage] = useState<string>('Index');
   const [translations, setTranslations] = useState<Record<string, string>>({});
   const [loading, setLoading] = useState<boolean>(true);
@@ -36,8 +36,8 @@ export const LanguageProvider = ({ children }: { children: ReactNode }) => {
       loadPageTranslations(page, language),
     ])
       .then(([layoutTranslations, pageTranslations]) => {
-          console.log('LAYOUT TRANSLATIONS:', layoutTranslations);
-          console.log('PAGE TRANSLATIONS:', pageTranslations);
+        console.log('LAYOUT TRANSLATIONS:', layoutTranslations);
+        console.log('PAGE TRANSLATIONS:', pageTranslations);
         if (!mounted) return;
 
         setTranslations({

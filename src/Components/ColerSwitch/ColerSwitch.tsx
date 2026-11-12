@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 type Theme = 'light' | 'dark';
 
 function ColorSwitch() {
-  const [theme, setTheme] = useState<Theme>('light');
+  const [theme, setTheme] = useState<Theme>('dark');
 
   useEffect(() => {
     const savedTheme = localStorage.getItem('theme') as Theme | null;
@@ -11,7 +11,7 @@ function ColorSwitch() {
       setTheme(savedTheme);
       applyTheme(savedTheme);
     } else {
-      applyTheme('light');
+      applyTheme('dark');
     }
   }, []);
 
@@ -33,12 +33,12 @@ function ColorSwitch() {
   return (
     <div className="form-check form-switch">
       <input
-      className="form-check-input"
-      type="checkbox"
-      role="switch"
-      id="themeSwitch"
-      checked={theme === 'dark'}
-      onChange={toggleTheme}
+        className="form-check-input"
+        type="checkbox"
+        role="switch"
+        id="themeSwitch"
+        checked={theme === 'dark'}
+        onChange={toggleTheme}
       />
     </div>
   );

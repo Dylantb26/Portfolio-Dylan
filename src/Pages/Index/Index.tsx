@@ -20,9 +20,6 @@ function Index() {
         <h5>{t('subtitle')}</h5>
         <img src={DylanImg} alt="no image found" className='' />
         <div className="d-flex gap-4 mt-5 justify-content-center">
-          <a href="https://www.linkedin.com/in/dylan-t-54441b2b7" target="_blank" rel="noopener noreferrer" className="btn btn-primary btn-lg rounded-pill px-5 py-3">
-            {t('ViewLinkedIn')}
-          </a>
           <a href="https://github.com/Dylantb26" target="_blank" rel="noopener noreferrer" className="btn btn-dark btn-lg rounded-pill px-5 py-3">
             {t('ViewGitHub')}
           </a>
