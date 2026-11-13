@@ -1,0 +1,1 @@
+const o="Welcome to my portfolio website",t="This is the portfolio of Dylan ter Bruggen",e="Image comming soon",i="View my GitHub",s={Title:o,subtitle:t,NoImage:e,ViewGitHub:i};export{e as NoImage,o as Title,i as ViewGitHub,s as default,t as subtitle};
