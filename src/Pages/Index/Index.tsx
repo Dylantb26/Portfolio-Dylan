@@ -31,6 +31,12 @@ function Index() {
         </div>
 
 
+        <div className="col-md-4 mt-5 justify-content-center">
+          <h5>{t('LinkedinNotice')}</h5>
+          <h6>{t('LinkedinText')}</h6>
+        </div>
+
+
       </div>
     </Layout >
   );
