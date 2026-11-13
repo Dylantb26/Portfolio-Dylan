@@ -28,7 +28,150 @@ function Skils() {
           </p>
         </div>
 
+
         <div className="row g-4">
+
+
+          <div className="col-12">
+            <h2 className="text-center">{t('WorkFlow')}</h2>
+          </div>
+
+
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">Scrum Agile</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+
+
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">Object oriented programming</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+
+
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">{t('Testing')}</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+
+
+          <div className="col-12">
+            <h2 className="text-center">{t('Programing_Software')}</h2>
+          </div>
+
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">Visual Studio</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">Visual Studio Code</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">Microsoft server management Studio</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">Oracle data modeler</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">Draw io</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+
+
+          <div className="col-12">
+            <h2 className="text-center">{t('Programing_Frameworks')}</h2>
+          </div>
+
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">.Net Maui</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+                <strong>3 {t('months')}</strong>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">ASP.NET Core & Identity</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-6 col-lg-4">
+            <div className="card skill-card h-100">
+              <div className="card-body">
+                <h5 className="card-title">.NET Entity Framework</h5>
+                <p className="card-text">
+                  {t('Experience')}: <strong>{t('Basic')}</strong>
+                </p>
+              </div>
+            </div>
+          </div>
+
+
           <div className="col-12">
             <h2 className="text-center">{t('Programing_Languages')}</h2>
           </div>
@@ -151,55 +294,15 @@ function Skils() {
             </div>
           </div>
 
-          <div className="col-12">
-            <h2 className="text-center">{t('Programing_Frameworks')}</h2>
-          </div>
-
-          <div className="col-md-6 col-lg-4">
-            <div className="card skill-card h-100">
-              <div className="card-body">
-                <h5 className="card-title">.Net Maui</h5>
-                <p className="card-text">
-                  {t('Experience')}: <strong>{t('Basic')}</strong>
-                </p>
-                <strong>3 {t('months')}</strong>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-md-6 col-lg-4">
-            <div className="card skill-card h-100">
-              <div className="card-body">
-                <h5 className="card-title">ASP.NET Core & Identity</h5>
-                <p className="card-text">
-                  {t('Experience')}: <strong>{t('Basic')}</strong>
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-md-6 col-lg-4">
-            <div className="card skill-card h-100">
-              <div className="card-body">
-                <h5 className="card-title">.NET Entity Framework</h5>
-                <p className="card-text">
-                  {t('Experience')}: <strong>{t('Basic')}</strong>
-                </p>
-              </div>
-            </div>
-          </div>
 
           <div className="col-12">
-            <h2 className="text-center">{t('Programing_Software')}</h2>
+            <h2 className="text-center">{t('Languages')}</h2>
           </div>
 
           <div className="col-md-6 col-lg-4">
             <div className="card skill-card h-100">
               <div className="card-body">
-                <h5 className="card-title">Visual Studio</h5>
-                <p className="card-text">
-                  {t('Experience')}: <strong>{t('Basic')}</strong>
-                </p>
+                <h5 className="card-title">{t('Dutch')}</h5>
               </div>
             </div>
           </div>
@@ -207,46 +310,12 @@ function Skils() {
           <div className="col-md-6 col-lg-4">
             <div className="card skill-card h-100">
               <div className="card-body">
-                <h5 className="card-title">Visual Studio Code</h5>
-                <p className="card-text">
-                  {t('Experience')}: <strong>{t('Basic')}</strong>
-                </p>
+                <h5 className="card-title">{t('English')}</h5>
               </div>
             </div>
           </div>
 
-          <div className="col-md-6 col-lg-4">
-            <div className="card skill-card h-100">
-              <div className="card-body">
-                <h5 className="card-title">Microsoft server management Studio</h5>
-                <p className="card-text">
-                  {t('Experience')}: <strong>{t('Basic')}</strong>
-                </p>
-              </div>
-            </div>
-          </div>
 
-          <div className="col-md-6 col-lg-4">
-            <div className="card skill-card h-100">
-              <div className="card-body">
-                <h5 className="card-title">Oracle data modeler</h5>
-                <p className="card-text">
-                  {t('Experience')}: <strong>{t('Basic')}</strong>
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-md-6 col-lg-4">
-            <div className="card skill-card h-100">
-              <div className="card-body">
-                <h5 className="card-title">Draw io</h5>
-                <p className="card-text">
-                  {t('Experience')}: <strong>{t('Basic')}</strong>
-                </p>
-              </div>
-            </div>
-          </div>
 
           <div className="col-12">
             <h2 className="text-center">{t('Other_Skills')}</h2>
@@ -299,7 +368,7 @@ function Skils() {
           <div className="col-md-6 col-lg-4">
             <div className="card skill-card h-100">
               <div className="card-body">
-                <h5 className="card-title">Microsoft Office</h5>
+                <h5 className="card-title">Microsoft Office 365</h5>
                 <p className="card-text">
                   {t('Experience')}: <strong>{t('Basic')}</strong>
                 </p>
@@ -319,16 +388,6 @@ function Skils() {
             </div>
           </div>
 
-          <div className="col-md-6 col-lg-4">
-            <div className="card skill-card h-100">
-              <div className="card-body">
-                <h5 className="card-title">Scrum Agile</h5>
-                <p className="card-text">
-                  {t('Experience')}: <strong>{t('Basic')}</strong>
-                </p>
-              </div>
-            </div>
-          </div>
 
           <div className="col-md-6 col-lg-4">
             <div className="card skill-card h-100">
@@ -337,26 +396,6 @@ function Skils() {
                 <p className="card-text">
                   {t('Experience')}: <strong>{t('Basic')}</strong>
                 </p>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-12">
-            <h2 className="text-center">{t('Languages')}</h2>
-          </div>
-
-          <div className="col-md-6 col-lg-4">
-            <div className="card skill-card h-100">
-              <div className="card-body">
-                <h5 className="card-title">{t('Dutch')}</h5>
-              </div>
-            </div>
-          </div>
-
-          <div className="col-md-6 col-lg-4">
-            <div className="card skill-card h-100">
-              <div className="card-body">
-                <h5 className="card-title">{t('English')}</h5>
               </div>
             </div>
           </div>

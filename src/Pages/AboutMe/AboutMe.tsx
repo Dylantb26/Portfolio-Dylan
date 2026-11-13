@@ -7,7 +7,7 @@ import DylanImg from './IMG/DylanTerBruggen.png';
 function AboutMe() {
   const { t, setPage, loading } = useContext(LanguageContext);
 
-    useEffect(() => {
+  useEffect(() => {
     setPage('AboutMe');
   }, [setPage]);
 
@@ -37,10 +37,13 @@ function AboutMe() {
           </div>
 
           <div className="col-md-6 text-center">
+            <h6>{t('NoImage')}</h6>
+
             <img
               src={DylanImg}
               alt="Portrait of Dylan ter Bruggen"
               className="img-fluid about-image"
+              style={{ display: "none" }}
             />
           </div>
 

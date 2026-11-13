@@ -1,25 +1,19 @@
 {
   "Title": "kwalificaties",
   "Subtitle": "Zie mijn skils",
-
   "Experience": "Ervaring",
-
   "Basic": "Basis",
   "Intermediate": "Gemiddeld",
   "advanced": "Gevorderd",
-
   "months": "Maanden",
   "years": "jaren",
-
-  "Programing_Languages": "Programmeertalen",
-  
-  "Programing_Frameworks": "Programmeer Frameworks",
-
+  "WorkFlow": "Werkstroom",
+  "Testing": "Testing en Debugging van software applicaties",
   "Programing_Software": "Programmeersoftware",
-
-  "Other_Skills": "Andere vaardigheden",
-
+  "Programing_Frameworks": "Programmeer Frameworks",
+  "Programing_Languages": "Programmeertalen",
   "Languages": "Talen",
   "Dutch": "Nederlands (eerste taal)",
-  "English": "Engels"
+  "English": "Engels",
+  "Other_Skills": "Andere vaardigheden"
 }

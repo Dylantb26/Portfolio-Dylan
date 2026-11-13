@@ -1,25 +1,19 @@
 {
   "Title": "Skills",
   "Subtitle": "View my skils",
-
   "Experience": "Experience",
-
   "Basic": "Basic",
   "Intermediate": "Intermediate",
   "advanced": "Advanced",
-
   "months": "months",
   "years": "years",
-
-  "Programing_Languages": "Programming Languages",
-
-  "Programing_Frameworks": "Programming Frameworks",
-
+  "WorkFlow": "WorkFlow",
+  "Testing": "Testing and Debugging of software applications",
   "Programing_Software": "Programming Software",
-  
-  "Other_Skills": "Other Skills",
-
+  "Programing_Frameworks": "Programming Frameworks",
+  "Programing_Languages": "Programming Languages",
   "Languages": "Languages",
   "Dutch": "Dutch (native)",
-  "English": "English"
+  "English": "English",
+  "Other_Skills": "Other Skills"
 }
